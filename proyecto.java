@@ -5,6 +5,5 @@ class Main{
         //Pancho feooo
         // Hola
         System.out.println("Huevos omar");
-
     }
 }
