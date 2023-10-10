@@ -4,5 +4,6 @@ class Main{
         //Paradigmas
         //Pancho feooo
         // Hola
+        System.out.println("Hola Mundo");
     }
 }
