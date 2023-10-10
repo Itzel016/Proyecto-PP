@@ -4,6 +4,6 @@ class Main{
         //Paradigmas
         //Pancho feooo
         // Hola
-        System.out.println("Huevos omar");
+        System.out.println("Huevos omar!!");
     }
 }
