@@ -3,7 +3,7 @@ class Main{
         System.out.println("Hello World");
         //Paradigmas
         //Pancho feooo
-        // Hola
+        // Hola omar pvto
         System.out.println("Huevos omar!!");
     }
 }
